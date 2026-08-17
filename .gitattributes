@@ -1,0 +1,3 @@
+# Раннер GitHub Actions — Linux: скрипты и workflow должны быть с LF,
+# иначе bash спотыкается о \r в конце строк.
+* text=auto eol=lf
